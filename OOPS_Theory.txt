@@ -1,0 +1,10 @@
+OOPS Benifits:
+- Faster and easier execution
+- Readability
+- No dulicate codes / DRY (Dont repeat yourself)
+- Resuse of code
+
+Two main aspects of OOPS:
+Class - class is a template for objects, or an object constructor, or a "blueprint" for creating objects.
+Objects - an object is an instance of a class
+

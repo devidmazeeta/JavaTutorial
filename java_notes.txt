@@ -1,0 +1,17 @@
+Comment uses:
+To stop execution of selected lines
+Documentation
+
+Types:
+single line comment
+multi line comment
+
+Variables:
+String  -> Text (Collection of characters)
+char    -> single character (alphabet, integer, symbol)
+int     -> integer 
+float   -> integer with floating values
+boolean -> true/false or 0/1
+
+Syntax:
+type variableName = value;
